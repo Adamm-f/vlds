@@ -94,7 +94,7 @@ h3 {
   position: absolute;
   left: -999px;
   top: 0;
-  background: var(--ink);
+  background: var(--color);
   color: #fff;
   padding: 0.7rem 1rem;
   z-index: 99;
